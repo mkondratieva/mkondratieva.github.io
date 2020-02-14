@@ -1,0 +1,20 @@
+
+Arkhipova  14 
+Berdyakova  2
+Bychkov  4
+Govorov  1
+Elfimov 17
+Karpova  10
+Kostomarov   16
+Kulbatskii   3
+Litvin  5
+Markhanov  12
+Osipov   7
+Piskunov  13
+Romanov   9
+Sergeev  15
+Slavina   11
+
+Последний столбик -- номер задач из списков 1 (наследование).
+
+
