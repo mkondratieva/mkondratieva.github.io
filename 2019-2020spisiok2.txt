@@ -5,7 +5,7 @@ Bychkov  4
 Govorov  1
 Elfimov 17
 Karpova  10
-Kostomarov   16  +
+Kostomarov   16  +  +
 Kulbatskii   3
 Litvin  5  +
 Markhanov  12
