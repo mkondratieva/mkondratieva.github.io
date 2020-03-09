@@ -1,21 +1,22 @@
 
-Arkhipova  14 
+Arkhipova  14  +
 Berdyakova  2
 Bychkov  4
 Govorov  1
 Elfimov 17
 Karpova  10
-Kostomarov   16  +  +
+Kostomarov   16  +  +  +
 Kulbatskii   3
-Litvin  5  +
+Litvin  5  + +
 Markhanov  12
 Osipov   7
 Piskunov  13
 Romanov   9
-Sergeev  15  +
+Sergeev  15  +  +
 Slavina   11
 
-Последний столбик -- номер задач из списка 1 (наследование)?
+Последний столбик -- номер задачи  1 (наследование)
+и 2 (STL),
 + -- балл за работу в классе.
 
 
