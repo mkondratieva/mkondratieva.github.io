@@ -1,23 +1,23 @@
 Для составления списка контактов прошу написать тех, с кем до сих не было связи.
 
-           Задача 1        Задача 2
+           Задача 1 к.р.1 Задача 2 Задача 3 Задача 4
 
 
-Arkhipova    (14)  + 1к.р.+  14
-Berdyakova     2    1к.р.-   2
-Bychkov        4   1к.р.-    4
-Govorov        1   1к.р.-    1
-Elfimov      (17)   1к.р.+   17
-Karpova        10  1к.р.-    10
-Kostomarov    (16) +++ 1к.р.- 16
-Kulbatskii     3  1к.р.-      3    нет связи
-Litvin         5  + +  1к.р.- 5    
-Markhanov      12  1к.р.-    12
-Osipov         7    1к.р.-    7
-Piskunov       13  1к.р.-     13   
-Romanov        9   1к.р.-     9    
-Sergeev        15  ++  1к.р.+ 15
-Slavina       /11/  1к.р.+   /11/
+Arkhipova    (14)+    +     14        14      2
+Berdyakova     2      -      2         2      11
+Bychkov        4      -      4         4      13
+Govorov        1      -      1         1      4
+Elfimov      (17)     +     17        17      8
+Karpova        10     -     10        10      7
+Kostomarov    (16)+++ -     16        16      1
+Kulbatskii     3      -      3         3      12      нет связи
+Litvin         5++    -      5         5      14
+Markhanov      12     -     12        12      3
+Osipov         7      -      7        7       5
+Piskunov       13     -     13        13      10
+Romanov        9      -      9         9      9
+Sergeev        15++   +     15        15      15
+Slavina       /11/    +     /11/      11      6
 
 
 Первый столбик -- номер задачи  1 (наследование),
