@@ -3,7 +3,7 @@
            Задача 1 к.р.1 Задача 2 Задача 3 Задача 4
 
 
-Arkhipova    (14)+    +    [14]        14      2
+Arkhipova    (14)+    +    (14)        14      2
 Berdyakova     2      -      2         2      11
 Bychkov        4      -      4         4      13
 Govorov        1      -      1         1      4
