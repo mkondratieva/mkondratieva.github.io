@@ -7,7 +7,7 @@ Arkhipova    (14)+    +    (14)    14     2    +-
 Berdyakova     2      -      2     2      11
 Bychkov        4      -      4     4      13
 Govorov        1      -      1     1      4    --
-Elfimov      (17)     +    (17)    /17/   8    ++
+Elfimov      (17)     +    (17)    /17/  /8/   ++
 Karpova        10     -     10     10     7    ++
 Kostomarov    (16)+++ -    (16)    16     1    +-
 Kulbatskii     3      -      3     3      12   нет связи
