@@ -4,18 +4,19 @@
 
 
 Arkhipova   +(14)     +    (14)    14     2    +-
-Berdyakova     2      -      2     2      11
-Bychkov        4      -      4     4      13
+Berdyakova     2      -      2     2      11   0
+Bychkov        4      -      4     4      13   0
 Govorov       [1]     -      1     1      4    --
 Elfimov      (17)     +    (17)    /17/  /8/   ++     11
 Karpova        10     -     10     10     7    ++
 Kostomarov +++(16)    -    (16)    (16)   1    +-
-Kulbatskii     3      -      3     3      12   нет связи
+Kulbatskii     3      -      3     3      12   0  нет связи
 Litvin       ++5      -      5     5      14   ++
 Markhanov      12     -     12     12     3    --
 Osipov         [7]    -      7     7      5    ++
 Piskunov       13     -     13     13     10   --
-Romanov        9      -      9     9      9
+Ridel          6      -      6     6      16   0
+Romanov        9      -      9     9      9    0
 Sergeev      ++15     +     15     15     15   ++
 Slavina       /11/    +     /11/   [11]   6    --
 
