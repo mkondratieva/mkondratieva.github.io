@@ -11,7 +11,7 @@ Elfimov      (17)     +    (17)    /17/  /8/   ++     11
 Karpova        10     -     10     10     7    ++
 Kostomarov +++(16)    -    (16)    (16)  /1/    +-    2
 Kulbatskii     3      -      3     3      12   0  нет связи
-Litvin       ++(5)      -    5     5     /14/  ++     13
+Litvin       ++(5)      -  (5)     5     /14/  ++     13
 Markhanov      12     -     12     12     3    --
 Osipov         [7]    -      7     7      5    ++
 Piskunov       13     -     13     13     10   --
