@@ -17,7 +17,7 @@ Osipov        [7]     +      7     7      5      ++
 Piskunov      13      -     13     13     10     --
 Ridel          6      -      6     6      16     0
 Romanov        9      -      9     9      (9)    0
-Sergeev     ++15      +      15     15     15    ++
+Sergeev     ++(15)    +      15    15     15     ++
 Slavina      /11/     ++    /11/  (11)    /6/    --    10
 
 
